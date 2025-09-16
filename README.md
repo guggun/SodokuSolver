@@ -1,1 +1,1 @@
-Simple Sodoku Solver
+#Sodoku Solver
